@@ -41,9 +41,6 @@ A melhor forma de ver meu progresso é através do histórico de **Commits** des
 
 ### 🔗 Conecte-se Comigo
 
-Estou sempre aberto a novas conexões, aprendizados e oportunidades.
-
-* **LinkedIn:** [Luan Victor Santos](https://www.linkedin.com/in/luan-victor-santos-242661252/)
-* **GitHub:** [@luanviccs](https://github.com/luanviccs)
+Estou sempre aberto a novas conexões, aprendizados e oportunidades. Meu linkedin está logo no início do meu perfil.
 
 Obrigado por visitar e acompanhar minha jornada!
