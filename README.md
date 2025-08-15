@@ -8,7 +8,7 @@ Inspirado por um desafio de estudos para a disciplina de **Bases Computacionais 
 
 ### 🎯 Sobre Este Diário
 
-Este espaço documenta minha evolução em Python, cobrindo desde os conceitos mais fundamentais até aplicações mais complexas. Aqui você encontrará:
+Este espaço documenta minha evolução em Python, cobrindo desde os conceitos mais fundamentais até aplicações mais complexas. Utilizarei este repositório ao longo do tempo para demarcar e anotar minha evolução e, além, ter uma base documentada de cada conceito que já estudei. Aqui você encontrará:
 
 * **Exercícios Resolvidos:** Soluções para problemas propostos em aulas, cursos e desafios online.
 * **Anotações e Descobertas:** Comentários no código e pequenas anotações sobre conceitos importantes que aprendi.
@@ -23,12 +23,6 @@ Para manter a organização, os códigos estão estruturados da seguinte forma:
 ├── Conceitos_Basicos/
 │   ├── 01_Variaveis_e_Tipos.py
 │   └── 02_Condicionais_If_Else.py
-│
-├── Estruturas_de_Dados/
-│   └── 01_Listas_e_Tuplas.py
-│
-└── Projetos_Iniciais/
-    └── calculadora_simples.py
 ```
 
 *(Esta estrutura será atualizada conforme novos tópicos forem estudados.)*
